@@ -2,3 +2,5 @@
 Deep Learning Code for Udacity certificate 
 
 writing deep learning model through scratch
+
+Tesnorflow, and nvidia
