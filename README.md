@@ -3,6 +3,6 @@ Deep Learning Code for Udacity certificate
 
 writing deep learning model through scratch
 
-first lesson
+first lesson.
 
 Tesnorflow, and nvidia
