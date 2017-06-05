@@ -6,3 +6,5 @@ writing deep learning model through scratch
 first lesson.
 
 Tesnorflow, and nvidia
+
+Classification, NN, CNN, RNN, LSTM
