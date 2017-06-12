@@ -19,3 +19,4 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-co
 Street view dataset
 
 3. Real time prediction
+use camera to do prediction in nearby spaces
