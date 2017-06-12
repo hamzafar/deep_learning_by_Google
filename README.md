@@ -17,3 +17,5 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-co
 
 2. SVN Google data set
 Street view dataset
+
+3. Real time prediction
