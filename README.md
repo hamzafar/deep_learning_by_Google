@@ -20,3 +20,5 @@ Street view dataset
 
 3. Real time prediction
 use camera to do prediction in nearby spaces
+
+Sliding window.
