@@ -8,3 +8,8 @@ first lesson.
 Tesnorflow, and nvidia
 
 Classification, NN, CNN, RNN, LSTM
+
+# Project
+1. mnist classifier
+
+https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
