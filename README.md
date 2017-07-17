@@ -23,3 +23,4 @@ use camera to do prediction in nearby spaces
 
 Sliding window.
 subset of images is cropped and fed to model to get prediction.
+
